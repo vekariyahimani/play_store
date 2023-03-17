@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p>
-<img src="https://user-images.githubusercontent.com/119123480/226041836-9aeb9761-ad4b-423b-b695-560e49cafa41.jpg"widht=22%,height=35%>
-<img src="https://user-images.githubusercontent.com/119123480/226041896-4712b548-2bbc-40fc-b1d7-c4249dd6d3de.jpg"widht=22%,height=35%>
+<img src="https://user-images.githubusercontent.com/119123480/226043935-1ca88ec7-f3b1-452f-8d41-012590c4814c.jpg"width=22%,height=35%>
+ <img src="https://user-images.githubusercontent.com/119123480/226044046-0ae86ee4-356e-4cb7-a46e-ad6e20b8d939.jpg"width=22%,height=35%>
 <p>
+![game]()
+![app]()
